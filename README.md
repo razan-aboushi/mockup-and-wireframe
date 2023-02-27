@@ -2,7 +2,7 @@
 
 ### I will create a website about e-learning and give it the name "3limni". It talks about giving students video lessons, exams and many other things that increase interaction between them and how to give the students the right way to study in esaiest and simple way . 
  
-### So I made an initial shape for the website using figma to create intial Waireframe and mouckupscreen.
+### So I made an initial shape for the website using ** figma ** to create intial Waireframe and mouckupscreen.
 ### Also i used VS code to push my work on the github.
 
  

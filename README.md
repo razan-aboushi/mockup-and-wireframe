@@ -1,10 +1,10 @@
 # mockup-and-wireframe
 
-### I will create a website about e-learning and give it the name "3limny". It talks about giving students video lessons, exams and many other things that increase interaction between them and how to give the students the right way to study in esaiest and simple way . 
+### I will create a website about e-learning and give it the name "3limny". It talks about giving students video lessons, tests and many other things that increase interaction between them and how to give the students the right way to study in esaiest and simple way . 
  
 ### So I made an initial shape for the website using figma to create intial Wireframe and mockupscreen.
 
-### The tools I used are 
+#### The tools I used are:
 1. figma "to draw the wireframe and mouckup screens".
 2. git and github.
 3. VS code. 
